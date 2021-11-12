@@ -1,6 +1,6 @@
 # NLP-Iskon-Temple
 ### Overview
-The aim of this project was to scrap tourists reveiws of Eskon Temple Bangalore from various websites and setup sentiment analysis on the scrapped data to ease drawing out insights from the reveiws and help temple management to act accordingly.  
+The aim of this project was to scrap tourists reveiws of Eskon Temple Bangalore from various websites and setup sentiment analysis on the scraped data to ease drawing out insights from the reveiws and help temple management to act accordingly.  
 ### Process followed - 
 #### Scrapping 
 - Scrapped all tourist reviews from about 10 major websites.
