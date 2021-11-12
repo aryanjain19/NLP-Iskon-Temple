@@ -10,5 +10,5 @@ The aim of this project was to scrap tourists reveiws of Eskon Temple Bangalore 
 - It was found that the reviews collected were written in **multiple languages, mainly including English, Hindi and Kannad. Also, many reviews were written in Hinglish** (Hindi words were written with english alphabets).
 All of these reviews were converted to English (and a smart way was found to convert Hinglish to English).
 
-#### Standard NLP and sentimental models were implemented to ease drawing concusions and help temple management with future review analysis.
+#### Standard NLP and sentimental models (such as Random Forest, XGBoost,SVM and Linears Regression) were implemented to ease drawing concusions and help temple management with future review analysis.
 
